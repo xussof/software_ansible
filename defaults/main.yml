@@ -1,0 +1,5 @@
+---
+software_packages:
+  - ansible
+
+repo_url: 'ppa:ansible/ansible'

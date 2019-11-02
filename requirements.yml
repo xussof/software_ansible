@@ -1,0 +1,5 @@
+---
+- src: https://github.com/xussof/software_software-properties-common
+  scm: git
+  version: master
+  name: software_software-properties-common
