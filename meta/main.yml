@@ -53,7 +53,7 @@ galaxy_info:
     #       Maximum 20 tags per role.
 
 dependencies:
-  - src: https://github.com/xussof/software_software-properties-common
+  - src: git@github.com:xussof/software_software-properties-common
     scm: git
     version: master
     #name: software_software-properties-common
