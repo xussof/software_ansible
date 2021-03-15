@@ -1,5 +1,5 @@
 ---
-- src: git@github.com:xussof/software_software-properties-common
+- src: git@github.com:xussof/software_ansible
   scm: git
   version: master
-  name: xussof.software_software-properties-common
+  name: software_ansible

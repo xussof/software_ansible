@@ -1,9 +1,9 @@
 ---
-- name: Add repository
-  become: true
-  apt_repository:
-    repo: '{{ repo_url }}'
-    state: present
+#- name: Add repository
+#  become: true
+#  apt_repository:
+#    repo: '{{ repo_url }}'
+#    state: present
 
 - name: Install ansible
   become: true
